@@ -40,3 +40,15 @@ if is_malicious:
 else:
     print(f"[+] URL is benign (Score: {score:.3f})")
 ```
+
+## Acknowledgements
+
+Dalton, T., Gowda, H., Rao, G., Pargi, S., Khodabakhshi, A. H., Rombs, J., Jou, S., & Marwah, M. (2025). PhreshPhish: A real-world, high-quality, large-scale phishing website dataset and benchmark [Data set]. Hugging Face. https://huggingface.co/datasets/phreshphish/phreshphish 
+
+Jha, T., Goswami, H., Solanki, C., Nagal, D., Yadav, V., & Prasad, A. (2025). StealthPhisher (Version 1) [Data set]. Mendeley Data. https://doi.org/10.17632/m2479kmybx.1
+
+Kaitholikkal, J. K. S., & B., A. (2024). Phishing URL dataset (Version 1) [Data set]. Mendeley Data. https://data.mendeley.com/datasets/vfszbj9b36/1
+
+Potpelwar, R. S., Kulkarni, U. V., & Waghmare, J. M. (2025). LegitPhish: A large-scale annotated dataset for URL-based phishing detection (Version 1) [Data set]. Mendeley Data. https://data.mendeley.com/datasets/hx4m73v2sf/1 
+
+Prasad, A., & Chandra, S. (2024). PhiUSIIL phishing URL dataset [Data set]. UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset

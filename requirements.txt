@@ -1,0 +1,7 @@
+pandas
+joblib
+xgboost
+torch
+transformers
+tldextract
+scikit-learn

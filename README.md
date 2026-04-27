@@ -32,7 +32,7 @@ You can evaluate any URL by passing it to the main ensemble function.
 ```python
 from models import evaluate_url
 
-target_url = "[http://secure-login-update-auth.com](http://secure-login-update-auth.com)"
+target_url = "https://www.google.com"
 is_malicious, score = evaluate_url(target_url)
 
 if is_malicious:
